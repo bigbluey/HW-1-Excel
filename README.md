@@ -18,14 +18,15 @@ Using Excel, modify and analyze the data of four thousand past Kickstarter proje
 Within the data provided there are numerous conclusions that could be made about KickStarter campaigns. At first glance, KickSarter projects are 53% more likely to be successful than to fail at 37% (or get cancelled at 8%, and the remaining live). 
 
 a.	Category Analysis:
-    i.  Categorically, KickStarter campaigns in music, theater as well as film & video have the highest success rates at 82%, 63% and 62.5% respectively. While on the other end of the spectrum, food, games and publishing categories have lower success rates at 19.5%, 36% and 39%. Another noteworthy observation is        that technology not only has the highest cancelation rate (almost 1/3 of the time) but are the most canceled category, comprising of more than 50% of all category cancelations combined. 
+    i.  Categorically, KickStarter campaigns in music, theater as well as film & video have the highest success rates at 82%, 63% and 62.5% respectively. While on the other end of the spectrum, food, games and publishing categories have lower success rates at 19.5%, 36% and 39%. Another noteworthy observation is that technology not only has the highest cancelation rate (almost 1/3 of the time) but are the most canceled category, comprising of more than 50% of all category cancelations combined. 
 
         ![png](Images/CategoryStats(1).PNG)
         
 b.	Sub-Category Analysis:
     i.  Observing the individual sub-categories within the KickStarter campaigns we can see interesting patterns of outcomes. 
-            1.  Firstly, the sub-categories with 100% success rates are: classical music, documentaries, electronic music, hardware, metal, non-fiction, pop, radio & podcasts, rock, shorts, small batch, table top games and television. 
-            2.  Secondly, and alternatively, sub-categories with 100% failure or cancelation rates are: animation, art books, audio, children’s books, drama, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, science fiction, translations, videogames and web. 
+        1.  Firstly, the sub-categories with 100% success rates are: classical music, documentaries, electronic music,                     hardware, metal, non-fiction, pop, radio & podcasts, rock, shorts, small batch, table top games and television.
+        2.   Secondly, and alternatively, sub-categories with 100% failure or cancelation rates are: animation, art books, audio, children’s books, drama, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, science fiction, translations, videogames and web.
+
     ii. A conclusion about KickStarter campaign sub-categories would be that plays are the most campaigned and popular while contributing the most to theater’s highest category success rate at 83%. 
 
         ![png](Images/SubcategoryStats(1).PNG)

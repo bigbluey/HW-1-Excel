@@ -53,11 +53,7 @@ d. Campaigns with actual products, cost of production vs. cost of pledge/donatio
 ## Observations
 
 a. Drilling deeper into certain data points it would be interesting to see, within countries, the outcome trends by state, region or etc. This would allow us to observe which geographical areas have the highest rates of success and which ones have the lowest rate of success and possibly gather trends.
-
 b. It would be fascinating to see who or what determined why the goal amount was set the way it was as well as the duration of the campaign (i.e. launch vs. deadline). It is highly likely that KickStarter campaigns would be more successful with a smaller goal amount and longer campaign duration, or even launching at a time of year that is more favorable to that category/sub-category.
-
 c. It would also be interesting to discover what happened to those companies/campaigns after KickStarter. Success in one arena does not mean overall, continued or lasting success.
-
 d. Perhaps, average donation by category to help people decide what they should set their goals at.
-
 e. Maybe even growth year over year by category.

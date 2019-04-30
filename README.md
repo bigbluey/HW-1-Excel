@@ -18,20 +18,24 @@ Using Excel, modify and analyze the data of four thousand past Kickstarter proje
 Within the data provided there are numerous conclusions that could be made about KickStarter campaigns. At first glance, KickSarter projects are 53% more likely to be successful than to fail at 37% (or get cancelled at 8%, and the remaining live). 
 
 * Category Analysis:
-    * Categorically, KickStarter campaigns in music, theater as well as film & video have the highest success rates at 82%, 63% and 62.5% respectively. While on the other end of the spectrum, food, games and publishing categories have lower success rates at 19.5%, 36% and 39%. Another noteworthy observation is        that technology not only has the highest cancelation rate (almost 1/3 of the time) but are the most canceled category, comprising of more than 50% of all category cancelations combined. 
+    * Categorically, KickStarter campaigns in music, theater as well as film & video have the highest success rates at 82%, 63% and 62.5% respectively. While on the other end of the spectrum, food, games and publishing categories have lower success rates at 19.5%, 36% and 39%. Another noteworthy observation is        that technology not only has the highest cancelation rate (almost 1/3 of the time) but are the most canceled category, comprising of more than 50% of all category cancelations combined.
+
+![png](Images/CategoryStats(1).png) 
         
 * Sub-Category Analysis:
     * Observing the individual sub-categories within the KickStarter campaigns we can see interesting patterns of outcomes. 
         * Firstly, the sub-categories with 100% success rates are: classical music, documentaries, electronic music, hardware, metal, non-fiction, pop, radio & podcasts, rock, shorts, small batch, table top games and television.
         * Secondly, and alternatively, sub-categories with 100% failure or cancelation rates are: animation, art books, audio, children’s books, drama, fiction, food trucks, gadgets, jazz, mobile games, nature, people, places, restaurants, science fiction, translations, videogames and web. 
     * A conclusion about KickStarter campaign sub-categories would be that plays are the most campaigned and popular while contributing the most to theater’s highest category success rate at 83%.
+
+![png](Images/SubcategoryStats(1).png)
     
 * Seasonality:
     * Analysis shows the highest success rate is in May at 61% across all categories while December has the lowest success rate at 44%. Notably, February and April also have comparative success rates at 60% each.
     * May (halfway through Q2) success rates for all categories peak and then continue to steadily decline until September (end the of Q3), only to briefly spike back up and level out until declining sharply from November to December. 
     * Interestingly, the gap between successful and failed closes in December (actually intersecting), and failures surpass successes for the 1st time. 
 
-![png](images/LaunchDateOutcomes(1).png)
+![png](Images/LaunchDateOutcomes(1).png)
 
 ## Limitations
 
@@ -48,3 +52,5 @@ Within the data provided there are numerous conclusions that could be made about
 * It would also be interesting to discover what happened to those companies/campaigns after KickStarter. Success in one arena does not mean overall continued or lasting success.
 * Perhaps, average donation by category to help people decide what they should set their goals at.
 * Maybe even growth year over year by category.
+
+![png](Images/GoalOutcomes.PNG)
